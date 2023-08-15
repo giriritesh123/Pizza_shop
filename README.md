@@ -27,6 +27,7 @@ Follow these steps to set up and run the app locally:
 2. Install dependencies using `npm i yarn`.
 3. Configure MongoDB connection in `.env` file.
 4. Run the app using `npm run server` and `npm run client`.
+5. Also Run the app using 'npm run dev'.if u face problrm then use the 4th method.
 
 Experience the future of pizza delivery right from your fingertips. Dive into a world of flavors, track your order in real-time, and indulge in a modern culinary adventure.
 
