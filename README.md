@@ -5,9 +5,7 @@ Welcome to the Pizza Delivery App, a cutting-edge web application that transform
 ## Features
 
 - **Extensive Menu:** Explore a wide variety of mouthwatering pizzas, each with detailed descriptions and vivid imagery.
-- **Customization:** Craft your perfect pizza by selecting crust, sauce, cheese, and toppings to match your taste.
 - **User Authentication:** Securely register and log in to your personal account for a personalized ordering experience.
-- **Real-Time Tracking:** Keep tabs on your order's journey from preparation to doorstep with live updates.
 - **Secure Payments:** Enjoy safe and hassle-free payments through various methods.
 - **Responsive Design:** Access the app seamlessly across devices thanks to its responsive Bootstrap-powered design.
 - **Admin Dashboard:** Streamline restaurant management with an intuitive admin dashboard for menu and order tracking.
